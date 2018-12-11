@@ -1,0 +1,13 @@
+autoenv==1.0.0
+Click==7.0
+flake8==3.6.0
+Flask==1.0.2
+Flask-API==1.0
+itsdangerous==1.1.0
+Jinja2==2.10
+MarkupSafe==1.1.0
+mccabe==0.6.1
+pycodestyle==2.4.0
+pyflakes==2.0.0
+python-dotenv==0.9.1
+Werkzeug==0.14.1
